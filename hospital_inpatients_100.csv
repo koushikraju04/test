@@ -1,0 +1,101 @@
+patient_id,name,age,gender,address,city,admitted_date,admission_reason,doctor_name,house_surgeon,ward,discharge_date
+IP001,Sneha Patel,33,M,Madhapur,Hyderabad,2025-01-21,Appendicitis,Dr. Ramesh,Dr. Anjali,Cardiac,
+IP002,Anil Sharma,31,M,LB Nagar,Hyderabad,2025-01-14,Gall Stones,Dr. Suresh Rao,Dr. Pooja,General,
+IP003,Naveen Kumar,46,F,Ameerpet,Hyderabad,2025-01-21,Fracture,Dr. Prakash,Dr. Neha,Ortho,2025-01-26
+IP004,Arjun Verma,24,M,Mehdipatnam,Hyderabad,2025-01-05,Appendicitis,Dr. Sunita,Dr. Neha,Cardiac,
+IP005,Vikram Joshi,52,M,Mehdipatnam,Hyderabad,2025-01-09,Appendicitis,Dr. Ramesh,Dr. Neha,Cardiac,2025-01-16
+IP006,Anil Sharma,20,M,Miyapur,Hyderabad,2025-01-12,Appendicitis,Dr. Mahesh,Dr. Anjali,Urology,
+IP007,Meena Iyer,28,F,Tolichowki,Hyderabad,2025-01-09,Diabetes,Dr. Sunita,Dr. Anjali,Cardiac,
+IP008,Naveen Kumar,28,F,Mehdipatnam,Hyderabad,2025-01-21,Kidney Stone,Dr. Ramesh,Dr. Kiran,Ortho,
+IP009,Suma Reddy,69,F,Mehdipatnam,Hyderabad,2025-01-02,Kidney Stone,Dr. Suresh Rao,Dr. Kiran,Cardiac,
+IP010,Ayesha Begum,43,F,Madhapur,Hyderabad,2025-01-11,Kidney Stone,Dr. Mahesh,Dr. Kiran,Cardiac,
+IP011,Rohit Mehta,45,F,Tolichowki,Hyderabad,2025-01-18,Diabetes,Dr. Mahesh,Dr. Pooja,Urology,
+IP012,Pooja Singh,27,M,Begumpet,Hyderabad,2025-01-03,Asthma,Dr. Ramesh,Dr. Anjali,Urology,2025-01-11
+IP013,Vikram Joshi,51,F,LB Nagar,Hyderabad,2025-01-13,Cardiac Pain,Dr. Suresh Rao,Dr. Pooja,Ortho,
+IP014,Abdul Rahman,45,M,Dilsukhnagar,Hyderabad,2025-01-21,Cardiac Pain,Dr. Sunita,Dr. Pooja,General,
+IP015,Abdul Rahman,71,M,Madhapur,Hyderabad,2025-01-17,Pneumonia,Dr. Mahesh,Dr. Pooja,Cardiac,2025-01-25
+IP016,Ayesha Begum,19,M,Tolichowki,Hyderabad,2025-01-01,Kidney Stone,Dr. Mahesh,Dr. Anjali,General,
+IP017,Ayesha Begum,70,M,LB Nagar,Hyderabad,2025-01-19,Fracture,Dr. Mahesh,Dr. Arjun,Cardiac,2025-01-21
+IP018,Divya Nair,45,M,LB Nagar,Hyderabad,2025-01-06,Diabetes,Dr. Sunita,Dr. Arjun,Ortho,
+IP019,Pooja Singh,33,M,Kukatpally,Hyderabad,2025-01-15,Pneumonia,Dr. Suresh Rao,Dr. Pooja,Cardiac,2025-01-20
+IP020,Ravi Kumar,22,M,Gachibowli,Hyderabad,2025-01-08,Appendicitis,Dr. Suresh Rao,Dr. Neha,ICU,
+IP021,Ayesha Begum,31,M,Hitech City,Hyderabad,2025-01-17,Gall Stones,Dr. Ramesh,Dr. Arjun,General,
+IP022,Pooja Singh,24,F,Tolichowki,Hyderabad,2025-01-16,Asthma,Dr. Prakash,Dr. Arjun,ICU,2025-01-19
+IP023,Suma Reddy,43,F,Kukatpally,Hyderabad,2025-01-21,Diabetes,Dr. Mahesh,Dr. Kiran,Cardiac,2025-01-23
+IP024,Lakshmi Devi,35,F,Gachibowli,Hyderabad,2025-01-15,Appendicitis,Dr. Prakash,Dr. Pooja,ICU,
+IP025,Ravi Kumar,80,M,Gachibowli,Hyderabad,2025-01-02,Fracture,Dr. Prakash,Dr. Arjun,Urology,2025-01-08
+IP026,Lakshmi Devi,42,M,Mehdipatnam,Hyderabad,2025-01-07,Kidney Stone,Dr. Prakash,Dr. Neha,Urology,2025-01-09
+IP027,Imran Khan,30,F,Gachibowli,Hyderabad,2025-01-18,Cardiac Pain,Dr. Ramesh,Dr. Pooja,ICU,2025-01-23
+IP028,Rohit Mehta,48,M,Ameerpet,Hyderabad,2025-01-11,Hypertension,Dr. Suresh Rao,Dr. Kiran,ICU,
+IP029,Naveen Kumar,43,M,Kondapur,Hyderabad,2025-01-20,Diabetes,Dr. Ramesh,Dr. Pooja,ICU,
+IP030,Rohit Mehta,54,F,Miyapur,Hyderabad,2025-01-20,Diabetes,Dr. Sunita,Dr. Kiran,Ortho,
+IP031,Abdul Rahman,47,F,Kukatpally,Hyderabad,2025-01-13,Cardiac Pain,Dr. Prakash,Dr. Pooja,Cardiac,
+IP032,Kiran Rao,50,F,Madhapur,Hyderabad,2025-01-04,Pneumonia,Dr. Suresh Rao,Dr. Kiran,Ortho,
+IP033,Neha Gupta,63,F,Kondapur,Hyderabad,2025-01-10,Hypertension,Dr. Suresh Rao,Dr. Pooja,Ortho,
+IP034,Sneha Patel,25,M,Hitech City,Hyderabad,2025-01-04,Hypertension,Dr. Mahesh,Dr. Neha,Ortho,2025-01-07
+IP035,Arjun Verma,31,F,LB Nagar,Hyderabad,2025-01-20,Stroke,Dr. Sunita,Dr. Anjali,ICU,
+IP036,Sneha Patel,20,M,Tolichowki,Hyderabad,2025-01-21,Fracture,Dr. Sunita,Dr. Kiran,Urology,
+IP037,Ravi Kumar,25,M,Hitech City,Hyderabad,2025-01-18,Fracture,Dr. Ramesh,Dr. Anjali,Ortho,2025-01-24
+IP038,Bhavya Sri,26,M,Miyapur,Hyderabad,2025-01-19,Pneumonia,Dr. Suresh Rao,Dr. Neha,General,
+IP039,Neha Gupta,74,F,Kondapur,Hyderabad,2025-01-08,Fracture,Dr. Mahesh,Dr. Kiran,General,2025-01-12
+IP040,Arjun Verma,68,F,Begumpet,Hyderabad,2025-01-14,Diabetes,Dr. Sunita,Dr. Kiran,ICU,
+IP041,Ayesha Begum,32,M,Dilsukhnagar,Hyderabad,2025-01-13,Pneumonia,Dr. Sunita,Dr. Kiran,General,2025-01-21
+IP042,Arjun Verma,35,M,Miyapur,Hyderabad,2025-01-01,Pneumonia,Dr. Ramesh,Dr. Arjun,Cardiac,2025-01-06
+IP043,Sneha Patel,29,F,Ameerpet,Hyderabad,2025-01-11,Appendicitis,Dr. Ramesh,Dr. Arjun,Ortho,2025-01-13
+IP044,Prakash Goud,25,F,Kondapur,Hyderabad,2025-01-11,Diabetes,Dr. Sunita,Dr. Anjali,Urology,
+IP045,Neha Gupta,61,M,Tolichowki,Hyderabad,2025-01-01,Asthma,Dr. Suresh Rao,Dr. Neha,Cardiac,
+IP046,Abdul Rahman,50,F,Begumpet,Hyderabad,2025-01-11,Asthma,Dr. Sunita,Dr. Arjun,Ortho,2025-01-13
+IP047,Bhavya Sri,60,F,Begumpet,Hyderabad,2025-01-18,Fracture,Dr. Ramesh,Dr. Pooja,Ortho,
+IP048,Ravi Kumar,37,F,Gachibowli,Hyderabad,2025-01-13,Asthma,Dr. Ramesh,Dr. Pooja,Ortho,
+IP049,Kiran Rao,50,F,Hitech City,Hyderabad,2025-01-15,Fracture,Dr. Suresh Rao,Dr. Neha,Cardiac,
+IP050,Naveen Kumar,61,F,Gachibowli,Hyderabad,2025-01-21,Diabetes,Dr. Mahesh,Dr. Anjali,ICU,2025-01-23
+IP051,Anil Sharma,47,F,Begumpet,Hyderabad,2025-01-08,Gall Stones,Dr. Mahesh,Dr. Arjun,Urology,2025-01-14
+IP052,Ravi Kumar,75,M,Mehdipatnam,Hyderabad,2025-01-13,Diabetes,Dr. Mahesh,Dr. Pooja,Urology,
+IP053,Pooja Singh,47,M,Dilsukhnagar,Hyderabad,2025-01-02,Hypertension,Dr. Ramesh,Dr. Pooja,Ortho,
+IP054,Prakash Goud,45,F,Madhapur,Hyderabad,2025-01-15,Stroke,Dr. Prakash,Dr. Neha,General,2025-01-22
+IP055,Prakash Goud,49,M,Miyapur,Hyderabad,2025-01-21,Stroke,Dr. Suresh Rao,Dr. Neha,General,
+IP056,Neha Gupta,23,M,Madhapur,Hyderabad,2025-01-09,Diabetes,Dr. Prakash,Dr. Kiran,General,
+IP057,Arjun Verma,52,F,Mehdipatnam,Hyderabad,2025-01-03,Cardiac Pain,Dr. Mahesh,Dr. Arjun,Urology,
+IP058,Rohit Mehta,42,F,Ameerpet,Hyderabad,2025-01-19,Pneumonia,Dr. Sunita,Dr. Arjun,Urology,2025-01-21
+IP059,Divya Nair,75,M,Dilsukhnagar,Hyderabad,2025-01-18,Diabetes,Dr. Sunita,Dr. Arjun,Urology,2025-01-24
+IP060,Suresh Naidu,64,M,Dilsukhnagar,Hyderabad,2025-01-01,Fracture,Dr. Ramesh,Dr. Pooja,ICU,
+IP061,Ravi Kumar,23,F,Madhapur,Hyderabad,2025-01-13,Stroke,Dr. Mahesh,Dr. Anjali,Ortho,
+IP062,Vikram Joshi,38,F,Mehdipatnam,Hyderabad,2025-01-13,Kidney Stone,Dr. Prakash,Dr. Neha,ICU,
+IP063,Neha Gupta,21,F,Gachibowli,Hyderabad,2025-01-16,Appendicitis,Dr. Suresh Rao,Dr. Anjali,General,
+IP064,Imran Khan,33,M,Dilsukhnagar,Hyderabad,2025-01-07,Appendicitis,Dr. Ramesh,Dr. Kiran,Urology,2025-01-13
+IP065,Divya Nair,56,M,Madhapur,Hyderabad,2025-01-09,Kidney Stone,Dr. Suresh Rao,Dr. Pooja,ICU,2025-01-12
+IP066,Suresh Naidu,43,M,Kukatpally,Hyderabad,2025-01-10,Gall Stones,Dr. Mahesh,Dr. Anjali,Ortho,
+IP067,Rohit Mehta,68,M,Tolichowki,Hyderabad,2025-01-20,Hypertension,Dr. Prakash,Dr. Neha,ICU,2025-01-28
+IP068,Bhavya Sri,70,F,Kukatpally,Hyderabad,2025-01-17,Asthma,Dr. Sunita,Dr. Arjun,General,2025-01-19
+IP069,Prakash Goud,79,F,Kondapur,Hyderabad,2025-01-14,Hypertension,Dr. Prakash,Dr. Arjun,Urology,
+IP070,Naveen Kumar,71,M,Miyapur,Hyderabad,2025-01-19,Stroke,Dr. Mahesh,Dr. Arjun,Cardiac,
+IP071,Ravi Kumar,49,F,Madhapur,Hyderabad,2025-01-20,Stroke,Dr. Mahesh,Dr. Neha,Ortho,2025-01-24
+IP072,Divya Nair,62,F,LB Nagar,Hyderabad,2025-01-11,Cardiac Pain,Dr. Ramesh,Dr. Kiran,ICU,
+IP073,Neha Gupta,66,M,Hitech City,Hyderabad,2025-01-08,Stroke,Dr. Prakash,Dr. Arjun,ICU,2025-01-13
+IP074,Suresh Naidu,62,M,Miyapur,Hyderabad,2025-01-03,Gall Stones,Dr. Sunita,Dr. Arjun,Cardiac,
+IP075,Neha Gupta,39,F,Hitech City,Hyderabad,2025-01-17,Stroke,Dr. Sunita,Dr. Neha,Ortho,
+IP076,Kiran Rao,38,M,Hitech City,Hyderabad,2025-01-08,Hypertension,Dr. Mahesh,Dr. Kiran,General,
+IP077,Rohit Mehta,80,F,Kukatpally,Hyderabad,2025-01-16,Diabetes,Dr. Sunita,Dr. Kiran,Ortho,
+IP078,Neha Gupta,26,F,Ameerpet,Hyderabad,2025-01-06,Cardiac Pain,Dr. Ramesh,Dr. Neha,General,
+IP079,Pooja Singh,73,M,Kondapur,Hyderabad,2025-01-21,Kidney Stone,Dr. Prakash,Dr. Arjun,Urology,2025-01-26
+IP080,Suma Reddy,34,F,Kukatpally,Hyderabad,2025-01-11,Appendicitis,Dr. Prakash,Dr. Arjun,ICU,
+IP081,Imran Khan,27,F,Kukatpally,Hyderabad,2025-01-19,Diabetes,Dr. Suresh Rao,Dr. Pooja,Urology,2025-01-21
+IP082,Divya Nair,32,F,Dilsukhnagar,Hyderabad,2025-01-20,Stroke,Dr. Sunita,Dr. Pooja,Urology,
+IP083,Suma Reddy,57,M,Gachibowli,Hyderabad,2025-01-10,Diabetes,Dr. Sunita,Dr. Anjali,General,
+IP084,Anil Sharma,28,M,Mehdipatnam,Hyderabad,2025-01-08,Stroke,Dr. Ramesh,Dr. Arjun,Ortho,
+IP085,Abdul Rahman,62,F,Kukatpally,Hyderabad,2025-01-02,Diabetes,Dr. Sunita,Dr. Pooja,General,
+IP086,Naveen Kumar,59,M,Miyapur,Hyderabad,2025-01-14,Fracture,Dr. Suresh Rao,Dr. Anjali,General,
+IP087,Rohit Mehta,76,F,Dilsukhnagar,Hyderabad,2025-01-10,Appendicitis,Dr. Prakash,Dr. Neha,Urology,
+IP088,Ayesha Begum,46,M,Kondapur,Hyderabad,2025-01-09,Cardiac Pain,Dr. Prakash,Dr. Neha,Cardiac,
+IP089,Naveen Kumar,79,M,Begumpet,Hyderabad,2025-01-09,Kidney Stone,Dr. Ramesh,Dr. Anjali,General,
+IP090,Vikram Joshi,76,F,Madhapur,Hyderabad,2025-01-16,Gall Stones,Dr. Prakash,Dr. Arjun,ICU,
+IP091,Arjun Verma,38,M,Madhapur,Hyderabad,2025-01-16,Pneumonia,Dr. Prakash,Dr. Arjun,Ortho,
+IP092,Suma Reddy,47,M,Tolichowki,Hyderabad,2025-01-13,Kidney Stone,Dr. Sunita,Dr. Anjali,Urology,2025-01-19
+IP093,Neha Gupta,47,F,Ameerpet,Hyderabad,2025-01-17,Diabetes,Dr. Ramesh,Dr. Neha,Cardiac,2025-01-19
+IP094,Suma Reddy,31,F,LB Nagar,Hyderabad,2025-01-16,Fracture,Dr. Sunita,Dr. Arjun,Urology,2025-01-24
+IP095,Divya Nair,69,M,Hitech City,Hyderabad,2025-01-04,Fracture,Dr. Sunita,Dr. Pooja,ICU,
+IP096,Naveen Kumar,71,M,Dilsukhnagar,Hyderabad,2025-01-18,Appendicitis,Dr. Mahesh,Dr. Arjun,Ortho,
+IP097,Ayesha Begum,80,F,Gachibowli,Hyderabad,2025-01-17,Stroke,Dr. Ramesh,Dr. Kiran,Urology,2025-01-22
+IP098,Imran Khan,73,M,Miyapur,Hyderabad,2025-01-07,Asthma,Dr. Sunita,Dr. Pooja,Ortho,2025-01-13
+IP099,Abdul Rahman,71,F,Madhapur,Hyderabad,2025-01-01,Stroke,Dr. Ramesh,Dr. Arjun,Ortho,
+IP100,Neha Gupta,42,F,Tolichowki,Hyderabad,2025-01-11,Diabetes,Dr. Mahesh,Dr. Pooja,Urology,
